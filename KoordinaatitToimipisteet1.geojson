@@ -5,9 +5,9 @@
 "features": [
 { "type": "Feature", "properties": { "KoordinaattiId": "5", "Toimipiste": "Suomenlinna-museo", "Latitude": 60.1450418767797, "Longitude": 24.987937327677706 }, "geometry": { "type": "Point", "coordinates": [ 24.987937327677706, 60.1450418767797 ] } },
 { "type": "Feature", "properties": { "KoordinaattiId": "16", "Toimipiste": "Laajasalon nuorisotalo", "Latitude": 60.179277780155665, "Longitude": 25.052072066968762 }, "geometry": { "type": "Point", "coordinates": [ 25.052072066968762, 60.179277780155665 ] } },
-{ "type": "Feature", "properties": { "KoordinaattiId": "12", "Toimipiste": "Päivälehden museo", "Latitude": 24.945359036703138, "Longitude": 60.16575621875317 }, "geometry": { "type": "Point", "coordinates": [ 60.16575621875317, 24.945359036703138 ] } },
-{ "type": "Feature", "properties": { "KoordinaattiId": "13", "Toimipiste": "Suomenlinnan kirjasto", "Latitude": 24.986555900417724, "Longitude": 60.14671845283226 }, "geometry": { "type": "Point", "coordinates": [ 60.14671845283226, 24.986555900417724 ] } },
-{ "type": "Feature", "properties": { "KoordinaattiId": "15", "Toimipiste": "Laajasalon kirjasto", "Latitude": 25.049485040630522, "Longitude": 60.18003011537789 }, "geometry": { "type": "Point", "coordinates": [ 60.18003011537789, 25.049485040630522 ] } }
+{ "type": "Feature", "properties": { "KoordinaattiId": "12", "Toimipiste": "Päivälehden museo", "Latitude": 60.16575621875317, "Longitude": 24.945359036703138 }, "geometry": { "type": "Point", "coordinates": [ 24.945359036703138, 60.16575621875317 ] } },
+{ "type": "Feature", "properties": { "KoordinaattiId": "13", "Toimipiste": "Suomenlinnan kirjasto", "Latitude": 60.14671845283226 "Longitude": 24.986555900417724 }, "geometry": { "type": "Point", "coordinates": [ 24.986555900417724, 60.14671845283226 ] } },
+{ "type": "Feature", "properties": { "KoordinaattiId": "15", "Toimipiste": "Laajasalon kirjasto", "Latitude": 60.18003011537789, "Longitude": 25.049485040630522 }, "geometry": { "type": "Point", "coordinates": [ 25.049485040630522,60.18003011537789 ] } }
 
 ]
 }
