@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Koordinaatit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ToimipisteId": "21190", "Toimipiste": "Suomenlinna-museo", "Latitude": 24.987937327677706, "Longitude": 60.1450418767797 }, "geometry": { "type": "Point", "coordinates": [ 60.1450418767797, 24.987937327677706 ] } },
+{ "type": "Feature", "properties": { "ToimipisteId": "71778", "Toimipiste": "Laajasalon nuorisotalo", "Latitude": 25.052072066968762, "Longitude": 60.179277780155665 }, "geometry": { "type": "Point", "coordinates": [ 60.179277780155665, 25.052072066968762 ] } }
+]
+}
